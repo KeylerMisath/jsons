@@ -1,0 +1,46 @@
+{
+    "series": [
+      {
+        "ranking": 1,
+        "titulo": "Breaking Bad"
+      },
+      {
+        "ranking": 2,
+        "titulo": "Shingeki no Kyojin"
+      },
+      {
+        "ranking": 3,
+        "titulo": "Arcane"
+      },
+      {
+        "ranking": 4,
+        "titulo": "The Boys"
+      },
+      {
+        "ranking": 5,
+        "titulo": "Invincible"
+      }
+    ],
+    "peliculas": [
+      {
+        "ranking": 1,
+        "titulo": "Interstellar"
+      },
+      {
+        "ranking": 2,
+        "titulo": "John Wick 4"
+      },
+      {
+        "ranking": 3,
+        "titulo": "Spider-Man: Across the Spider-Verse"
+      },
+      {
+        "ranking": 4,
+        "titulo": "Django Unchained"
+      },
+      {
+        "ranking": 5,
+        "titulo": "Maze Runner"
+      }
+    ]
+  }
