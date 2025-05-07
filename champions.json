@@ -1,0 +1,65 @@
+[
+    {
+      "fase": "Cuartos de final",
+      "torneo": "UCL",
+      "Partidos": [
+        {
+          "visitante": "VfL Wolfsburg",
+          "local": "Real Madrid",
+          "tarjetas": {
+            "rojas": "#",
+            "amarillas": "#"
+          },
+          "resultado": "0-3",
+          "goles": [
+            {"minuto": 15, "jugador": "Cristiano Ronaldo"},
+            {"minuto": 17, "jugador": "Cristiano Ronaldo"},
+            {"minuto": 77, "jugador": "Cristiano Ronaldo"}
+          ]
+        },
+        {
+          "visitante": "Benfica",
+          "local": "Bayern Munich",
+          "tarjetas": {
+            "rojas": "#",
+            "amarillas": "#"
+          },
+          "resultado": "2-2",
+          "goles": [
+            {"minuto": 27, "jugador": "Raúl Jiménez"},
+            {"minuto": 76, "jugador": "Talisca"},
+            {"minuto": 38, "jugador": "Arturo Vidal"},
+            {"minuto": 52, "jugador": "Thomas Müller"}
+          ]
+        },
+        {
+          "visitante": "Atlético Madrid",
+          "local": "Barcelona",
+          "tarjetas": {
+            "rojas": "#",
+            "amarillas": "#"
+          },
+          "resultado": "2-0",
+          "goles": [
+            {"minuto": 36, "jugador": "Antoine Griezmann"},
+            {"minuto": 88, "jugador": "Antoine Griezmann (penalti)"}
+          ]
+        },
+        {
+          "visitante": "Paris Saint-Germain",
+          "local": "Manchester City",
+          "tarjetas": {
+            "rojas": "#",
+            "amarillas": "#"
+          },
+          "resultado": "2-2",
+          "goles": [
+            {"minuto": 41, "jugador": "Zlatan Ibrahimović"},
+            {"minuto": 59, "jugador": "Adrien Rabiot"},
+            {"minuto": 38, "jugador": "Kevin De Bruyne"},
+            {"minuto": 72, "jugador": "Fernandinho"}
+          ]
+        }
+      ]
+    }
+  ]
